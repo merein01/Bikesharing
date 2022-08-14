@@ -13,7 +13,7 @@ For this project, we performed an analysis to assess the value of Citi Bike Expa
 <img width="806" alt="Gender and User Type Trips" src="https://user-images.githubusercontent.com/105119376/184543690-6b1225f5-2d6b-41a5-98da-37345401f451.png">
 
 # Link to Tableau Public 
-This can be viewed on Tableau Pulbic by clicking [Here](https://public.tableau.com/app/profile/louis.merein/viz/BikeSharingChallenge_16601685898900/CitiBikeDataStory)
+This can be viewed on Tableau Pulbic by clicking [here](https://public.tableau.com/app/profile/louis.merein/viz/BikeSharingChallenge_16601685898900/CitiBikeDataStory)
 
 # Summary
 This data visualizations show that peak acivtity of the bike sharing service in NYC is between the hours of 7-9am and 5-7pm. This is most likely due to people traveling to and from work, also known as "rush hours". We can also conclude that the highest usage of bikes is done by males, specifically male subscribers during the week. To be able to further assess the expansion of Citi Bike to other cities, I would recommend comparing data to different months of the year, not just August to further evaluate if different seasons throughout the different months of the year affect bike usage. Also, I would recommend to inklcude weather data to find the correlation between the weather and the rides.
