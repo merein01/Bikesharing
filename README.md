@@ -11,4 +11,4 @@ For this project, we performed an analysis to assess the value of Citi Bike Expa
 <img width="807" alt="Weekday per Hour Heatmap" src="https://user-images.githubusercontent.com/105119376/184543663-d9d886d7-d95b-4f9b-b758-a5b244f8366b.png">
 <img width="806" alt="Gender Weekday" src="https://user-images.githubusercontent.com/105119376/184543683-24562f83-beb3-4066-bf97-877c67c04eb5.png">
 <img width="806" alt="Gender and User Type Trips" src="https://user-images.githubusercontent.com/105119376/184543690-6b1225f5-2d6b-41a5-98da-37345401f451.png">
-This can be viewed on Tableau Pulbic by clicking [Here] (https://public.tableau.com/app/profile/louis.merein/viz/BikeSharingChallenge_16601685898900/CitiBikeDataStory)
+This can be viewed on Tableau Pulbic by clicking [Here](https://public.tableau.com/app/profile/louis.merein/viz/BikeSharingChallenge_16601685898900/CitiBikeDataStory)
